@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Output files generati
+energy_drift/output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
